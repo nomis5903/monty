@@ -1,0 +1,13 @@
+{
+    
+    "files.associations": {
+	
+        "*.tcc": "c",
+	
+        "fstream": "c",
+	
+        "list": "c"
+	
+    }
+    
+}
